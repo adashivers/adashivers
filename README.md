@@ -1,4 +1,6 @@
-## My name is Ali, and I'm a Toronto-based programmer/mathematician/artist.
+## My name is Ali, and I'm a Toronto-based programmer and game dev.
+
+
 Skills/Interests:
 
 > Real-time Physics Simulation
@@ -6,6 +8,10 @@ Skills/Interests:
 I'm experienced in  and, in general, solving non-linear least squares problems with gradient descent.
 From my class CSC317 (Computer Graphics):
 [alt text](https://github.com/aligencoglu/aligencoglu/main/image.jpg?raw=true)
+
+
+
+
 
 
 
