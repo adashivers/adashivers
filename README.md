@@ -1,5 +1,15 @@
 ## My name is Ali, and I'm a Toronto-based programmer and game dev.
 
+[](https://github.com/aligencoglu/aligencoglu/blob/main/Assets/Ghosting_Update_4.webm)
+[](https://github.com/aligencoglu/aligencoglu/blob/main/Assets/bunny.webm)
+[](https://github.com/aligencoglu/aligencoglu/blob/main/Assets/demonbed.webm)
+[](https://github.com/aligencoglu/aligencoglu/blob/main/Assets/derivative.webm)
+[](https://github.com/aligencoglu/aligencoglu/blob/main/Assets/gooby.webm)
+[](https://github.com/aligencoglu/aligencoglu/blob/main/Assets/grass_(1).webm)
+[](https://github.com/aligencoglu/aligencoglu/blob/main/Assets/inverse-kinematics.webm)
+[](https://github.com/aligencoglu/aligencoglu/blob/main/Assets/mass-springs.webm)
+
+
 
 Skills/Interests:
 
