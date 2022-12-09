@@ -4,7 +4,11 @@
 ### **My Resume:**  [Resume.pdf](https://github.com/aligencoglu/aligencoglu/files/10192037/Ali.Gencoglu.Resume.pdf)
 ### **Itch.io:** https://visagemirage.itch.io/
 ---
-https://user-images.githubusercontent.com/42721744/206626148-c2441382-5114-44e8-8d38-d6edf4579845.mp4
+
+
+https://user-images.githubusercontent.com/42721744/206631088-dcfc8419-3ef1-4f5a-b4cd-698f0b1f1477.mp4
+
+
 ---
 This is a WIP readme page!
 
