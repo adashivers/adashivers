@@ -11,5 +11,8 @@ https://user-images.githubusercontent.com/42721744/206632233-8ad81234-a69c-40f4-
 
 
 
+- Comfortable with Unity
+- In-Depth knowledge of graphics and shaders
+- Game Design experience
 
 ---
