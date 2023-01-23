@@ -1,5 +1,5 @@
 # My name is Ali, and I'm a Toronto-based programmer, game dev and technical artist.
-**I'm currently looking for a 12-month co-op job in the game and/or VFX industries starting at May 2023!**
+**I'm currently looking for a co-op job in the game and/or VFX industries starting at May 2023!**
 ---
 ### **Itch.io:** [https://forestchord.itch.io/](https://forestchord.itch.io)
 ---
