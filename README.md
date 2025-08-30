@@ -8,4 +8,5 @@ My name is Ada, and I'm a Toronto-based programmer, game dev and technical artis
 Currently working on: 
 - Something secret!!
 
-**Check out my Itch.io to see some of my projects:** [https://forestchord.itch.io/](https://forestchord.itch.io)
+**Check out my Itch.io to see some of my projects:** [https://satelliteicarus.itch.io/](https://satelliteicarus.itch.io)
+
