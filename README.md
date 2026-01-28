@@ -4,4 +4,5 @@
 
 My name is Ada, and I'm a Toronto-based programmer, game dev and technical artist.
 
-Currently working on: Castle Quest 3, a King's Field-like made in Bevy, a budding game engine for Rust
+Currently working on 2 small game projects in bevy :]
+
