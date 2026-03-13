@@ -4,5 +4,6 @@
 
 My name is Ada, and I'm a Toronto-based programmer, game dev and technical artist.
 
-Currently working on 2 small game projects in bevy :]
+Currently working on 3 game projects. 2 in bevy, and one in godot! :]
+
 
