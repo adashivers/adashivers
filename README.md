@@ -2,8 +2,4 @@
 
 ![chatot](https://github.com/aligencoglu/aligencoglu/assets/42721744/9ca44438-4b2d-44be-a8d3-9473cf0ef227)
 
-My name is Ada, and I'm a programmer, game dev and technical artist.
-
-Currently working on 3 game projects. 2 in bevy, and one in godot! :]
-
 
